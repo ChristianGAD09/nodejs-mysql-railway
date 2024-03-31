@@ -1,0 +1,9 @@
+
+Despliegue de nodejs + mysql en railway
+
+Comandos por linea de codigo:
+
+project setup
+	npm init -y
+	npm i express mysql2
+	 
